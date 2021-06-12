@@ -1,0 +1,31 @@
+{
+  "name": "gbi-bank-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gbiServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bankproject": "cd bankproject && npm start",
+    "server":"node gbiServer",
+    "bankproject:build":"cd bankproject && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atulverma4796/GBI-Bank-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atulverma4796/GBI-Bank-Project/issues"
+  },
+  "homepage": "https://github.com/atulverma4796/GBI-Bank-Project#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "query-string": "^7.0.0",
+    "react-router-dom": "^5.2.0"
+  }
+}

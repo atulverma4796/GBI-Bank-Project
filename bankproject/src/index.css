@@ -1,0 +1,282 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.bg{
+  background-color: aqua;
+}
+.border{
+ border-color: black;
+}
+.marginrow{
+  margin-top: -10px;
+}
+.m{
+  margin-top: -40px;
+}
+.display{
+  font-size: 25px;
+}
+.form1{
+ margin-top: 40px;
+}
+.border1{
+  color: darkblue;
+  border: 5px;
+  border-radius:10px;
+  border-color: darkred;
+  background-color:hotpink;
+}
+.font{
+  font-size: 14px;
+  font-weight:bold;
+}
+.font1{
+  font-size: 15px;
+  font-weight:bold;
+  background-color: mediumvioletred;
+  color:silver;
+}
+.list{
+  margin: 20px;
+  font-size:medium;
+  background-color: lightblue;
+  color: navy;
+}
+.list1{
+  margin: 20px;
+  font-size:medium;
+  background-color:cyan;
+  color:navy;
+}
+.font2{
+  font-size: 15px;
+  font-weight:bold;
+  background-color:indigo;
+  color:lavender;
+}
+.list2{
+  margin: 20px;
+  font-size:medium;
+  background-color: lightgreen;
+  color:navy;
+}
+.label{
+  font-size: 14px;
+  color:darkturquoise;
+}
+.radio{
+  margin-left: 20px;
+  font-size: 15px;
+  color: blue;
+}
+.lebel1{
+  border: 2px;
+  background-color:brown;
+  text-align: center;
+}
+.customer{
+  background-color:fuchsia;
+  margin-top: 20px;
+  padding: 12px;
+  margin-left: -10px;
+  font-size: 14px;
+  color: navy;
+  border-radius: 10px;
+}
+.dd{
+  
+  margin-top: 5px;
+ 
+}
+ .nominee{
+   margin:10px;
+   padding: 10px;
+   background-color: green;
+   font-size: 14px;
+   color: navy;
+   border-radius: 10px;
+ }
+ .cheque{
+   margin:10px;
+   padding: 10px;
+   font-size: 14px;
+   color:navy;
+   background-color: palevioletred;
+   border-radius: 10px;
+ }
+ .net{
+   margin:10px;
+   padding: 10px;
+   font-size: 14px;
+   color: navy;
+   border-radius: 10px;
+   background-color: orchid;
+ }
+ .payee{
+  margin: 10px;
+  padding: 10px;
+  font-size: 14px;
+  color:navy;
+  background-color:darkgoldenrod;
+  border-radius: 10px;
+ }
+ .login{
+   margin: 10px;
+   padding: 10px;
+   font-size: 14px;
+   color: navy;
+   border-radius: 10px;
+   background-color: orange;
+ }
+ .login1{
+   margin: 8px;
+   padding: 10px;
+   font-size: 14px;
+   background-color: navy;
+   color: orangered;
+   border-radius: 10px;
+ }
+ .border2{
+  color: darkblue;
+  border: 5px;
+  border-radius:10px;
+  border-color: darkred;
+  background-color:peru;
+ }
+ .lb{
+   background-color: red;
+   color:seashell;
+   text-align: center;
+   font-size: 14px;
+ }
+ 
+ .cb{
+   margin-left:18px;
+   font-size: 13px;
+   color:navy;
+ }
+.font3{
+  font-size: 15px;
+  font-weight:bold;
+  background-color:darkgray;
+  color:black;
+}
+.list3{
+  margin: 20px;
+  font-size:medium;
+  background-color:orange;
+  color:navy;
+}
+.add{
+ font-size: 15px;
+color:darkred;
+background-color:darkorange;
+}
+.table1{
+  font-size: 14px;
+  background-color:mediumturquoise;
+  color: navy;
+}
+.add1{
+  font-size: 15px;
+  color:gold;
+  background-color:darkcyan;
+}
+.table2{
+  font-size: 14px;
+  background-color:darkgray;
+  color: navy;
+}
+.student{
+  background-color:mediumseagreen;
+  color:navy;
+  border-radius: 10px;
+  font-size: 14px;
+}
+.faculty{
+  background-color:mediumaquamarine;
+  color:navy;
+  border-radius: 10px;
+  font-size: 14px;
+}
+.table3{
+  font-size: 14px;
+}
+.schedule{
+  background-color:olive;
+  color: navy;
+  font-size: 14px;
+  border-radius: 10px;
+}
+.add3{
+  font-size: 15px;
+  color: black;
+  background-color: blanchedalmond;
+}
+.table4{
+  font-size: 14px;
+  color: navy;
+  background-color:palevioletred;
+}
+.add2{
+  font-size: 15px;
+  color: azure;
+  background-color: black;
+}
+.allclass{
+  font-size: 15px;
+  color:darkgoldenrod;
+  background-color:darkred;
+}
+.table4{
+  font-size: 14px;
+  color:navy;
+  background-color: deepskyblue;
+}
+.add5{
+  font-size: 15px;
+  color:black;
+  background-color:blueviolet;
+}
+.table5{
+  font-size: 14px;
+  background-color: darkcyan;
+  color:navy
+}
+.color{
+  background-color: blueviolet;
+  text-decoration: chocolate;
+
+}
+.mobile{
+  background-color: cornflowerblue;
+  color: navy;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.emailForm{
+  background-color:orange;
+  color: navy;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.card-img-top{
+  width: 100%;
+  height: 10vw;
+  object-fit: cover;
+}
+.card{
+  width: 250px;
+}
